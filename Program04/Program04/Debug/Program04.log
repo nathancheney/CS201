@@ -1,0 +1,5 @@
+﻿  LibraryUser.cpp
+  Program04.cpp
+C:\Users\natha\source\repos\Program04\Program04\Program04.cpp(11,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Program04.vcxproj -> C:\Users\natha\source\repos\Program04\Debug\Program04.exe
